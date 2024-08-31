@@ -1,0 +1,17 @@
+{
+  "name": "test-task",
+  "version": "1.0.0",
+  "main": "input.json",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Gennadiy Yatsenko",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "jest-fetch-mock": "^3.0.3"
+  }
+}
